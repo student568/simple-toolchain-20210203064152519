@@ -9,11 +9,7 @@
   },
   "dependencies": {
     "cfenv": "1.2.x",
-<<<<<<< HEAD
     "express": "^4.17.3"
-=======
-    "express": "4.17.3"
->>>>>>> ea2705dd150792e9e29889f524c6af350eb5e747
   },
   "repository": {},
   "engines": {
@@ -21,7 +17,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "nyc": "*",
     "snyk": "^1.440.4"
   }
